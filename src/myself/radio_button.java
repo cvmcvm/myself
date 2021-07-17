@@ -17,6 +17,7 @@ public class radio_button {
 		driver.manage().window().maximize();
 		
 		driver.findElement(By.xpath("//input[@id='male']")).click();
+		System.out.println("heyy");
 		
 		
 
