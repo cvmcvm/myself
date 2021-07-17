@@ -18,7 +18,7 @@ public class radio_button {
 		
 		driver.findElement(By.xpath("//input[@id='male']")).click();
 		System.out.println("heyy");
-		
+		System.out.println("new line");
 		
 
 	}
